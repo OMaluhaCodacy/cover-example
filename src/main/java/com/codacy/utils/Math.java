@@ -3,6 +3,7 @@ package com.codacy.utils;
 public class Math {
 
     private int magicNumber;
+    int some = 1;
 
     public Math(int magicNumber) {
         this.magicNumber = magicNumber;
