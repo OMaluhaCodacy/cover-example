@@ -5,9 +5,8 @@ public class Math {
     private int magicNumber;
     int some = 1;
 
-    public Math(int magicNumber) {
-        this.magicNumber = magicNumber;
-    }
+    public Math(int magicNumber) this.magicNumber =magicNumber;
+}
     /**
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
