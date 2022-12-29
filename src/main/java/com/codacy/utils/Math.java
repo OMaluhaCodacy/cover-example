@@ -1,6 +1,4 @@
 package com.codacy.utils;
-package com.codacy.utils;
-package com.codacy.utils;
 
 public class Math {
 
