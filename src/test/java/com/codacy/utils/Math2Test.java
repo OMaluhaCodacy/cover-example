@@ -13,9 +13,9 @@ public class Math2Test {
     }
 
     // Uncomment this to have 100% coverage
-    @Test
-    public void shouldSubtractIfMagicNumber() {
-        Math2 math = new Math2(4);
-        assertEquals(1, math.magicAdd(3, 4));
-    }
+//    @Test
+//    public void shouldSubtractIfMagicNumber() {
+//        Math2 math = new Math2(4);
+//        assertEquals(1, math.magicAdd(3, 4));
+//    }
 }
