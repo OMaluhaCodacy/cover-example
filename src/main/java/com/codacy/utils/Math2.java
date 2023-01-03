@@ -7,7 +7,6 @@ public class Math2 {
     public Math2(int magicNumber) {
         this.magicNumber = magicNumber;
     }
-
     /**
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
@@ -16,8 +15,7 @@ public class Math2 {
             System.out.println("hey");
             System.out.println("hey");
             System.out.println("hey");
-            System.out.println("hey");
-            System.out.println("hey");
+            System.out.println("hey");;;;
             System.out.println("hey");
             return y - x;
         } else {
@@ -36,8 +34,7 @@ public class Math2 {
             System.out.println("hey");
             System.out.println("hey");
             System.out.println("hey");
-            System.out.println("hey");
-            return x + y;
+            return y + x;
         }
     }
 }
